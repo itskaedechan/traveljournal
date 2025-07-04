@@ -38,6 +38,10 @@ header {
   align-items: center;
 }
 
+main {
+  max-width: 1200px;
+}
+
 h1 {
   color: white;
   font-weight: 500;
@@ -71,7 +75,7 @@ p,
 span {
   color: #2b293b;
   font-weight: 500;
-  font-size: 10.24;
+  font-size: 10.24px;
 }
 
 .destination {
